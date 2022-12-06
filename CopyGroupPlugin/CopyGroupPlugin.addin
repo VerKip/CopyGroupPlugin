@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Users\veram\AppData\Roaming\Autodesk\AutodeskRevitAPITraining\CopyGroupPlugin.dll"</Assembly>
+		<AddInId>91687D43-B305-4D84-8BAD-FD37E79F70CC</AddInId>
+		<FullClassName>CopyGroupPlugin.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Копировать группу объектов</Text>
+	</AddIn>
+</RevitAddIns>
